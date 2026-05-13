@@ -1,0 +1,67 @@
+[음성 입력]
+   ↓
+STT
+   ↓
+LLM (키워드 추출)
+   ↓
+ROS 토픽 publish
+   ↓
+YOLO 타겟 설정 (/detected_tool)
+   ↓
+YOLO detection
+   ↓
+robot_control 실행
+
+1. keyword_extraction_3.py 👉 “자동 실행형”
+특징: 노드 실행하면 바로 동작(wakeup → STT → LLM → publish) 
+👉실행하면 바로 음성 받고 처리하는 구조
+
+2. get_keyword_custom.py 👉 “서비스 호출형”
+특징: 서비스 기반 (/get_keyword), 필요할 때 호출해서 음성 처리
+👉다른 노드가 “지금 음성 받아라” 요청하는 구조
+
+3. gas_station_yolo_stt_mapping.py 👉 “연결 핵심”
+역할:
+/detected_tool 구독
+해당 객체만 YOLO로 탐지
+결과 → yolo_result publish
+
+
+👉 keyword_extraction_3.py 사용했을 때
+음성 → keyword_extraction_3
+       ↓
+
+   /detected_tool (pump / creditcard)
+       ↓
+gas_station_yolo_stt_mapping
+       ↓
+   yolo_result
+       ↓
+robot_control
+✔ 완전 자동 파이프라인
+
+👉 get_keyword_custom.py 사용했을 때
+
+다른 노드 → /get_keyword 호출
+              ↓
+        STT + LLM 실행
+              ↓
+        /detected_tool publish
+              ↓
+        YOLO → robot_control
+✔ 필요할 때만 음성 처리
+
+| 항목    | keyword_extraction_3 | get_keyword_custom |
+| ----- | -------------------- | ------------------ |
+| 실행 방식 | 자동 실행                   | 서비스 호출             |
+| 제어 방식   | 사용자 중심                  | 시스템 중심         |
+| 제어권   | 없음                   | 있음                 |
+| YOLO 매핑 | 단순     | 매핑 함수 있음     |
+
+🔧 현실적인 추정
+
+너 상황 보면:
+👉 개발 초기 → keyword_extraction_3 사용
+👉 구조 개선 → get_keyword_custom 만든 듯
+
+
