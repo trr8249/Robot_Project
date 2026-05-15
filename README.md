@@ -1,4 +1,5 @@
-## Robot_Project - The team projects using AMR, cooperative robots, industrial robots, etc.
+## Robot_Project
+The team projects using AMR, cooperative robots, industrial robots, etc.
 
 ## collaborative robot_PJ: 
 산업용 로봇(협동로봇)을 활용한 3가지 자동화 공정 구현 프로젝트 모음.
