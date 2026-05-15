@@ -13,6 +13,7 @@ src 디렉토리에는 사용했던 코드가 기재되어있습니다.
 
 ## AMR_PJ:
 AMR을 활용한 완성차 물류 운송 자동화 구현 프로젝트.
+images 디렉토리에 SLAM.mp4 파일이 SLAM기반 map 생성과정 영상입니다.(ipynb파일을 다운로드 없이 git에서 열어보면 mp4 형식이라 출력이 안됩니다.)
 
 ## AI_LLM_STT_corobot_PJ: 
 AI(GPT API 활용 STT/LLM) + 산업용 로봇(협동로봇) 주유 자동화 공정 구현 프로젝트.
