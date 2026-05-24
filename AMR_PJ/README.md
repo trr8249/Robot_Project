@@ -1,10 +1,6 @@
 ## AMR_PJ:
 AMR을 활용한 완성차 물류 운송 자동화 구현 프로젝트.
 
-images 디렉토리에 SLAM.mp4 파일이 SLAM기반 map 생성과정 영상입니다.
-
-(Jupyter Notebook 파일을 다운로드 없이 git에서 열어보면 mp4 형식이라 출력이 안됩니다.)
-
 ## Viewing Tip
 For better readability, open the `.ipynb` file in Jupyter Notebook.  
 You can collapse or expand each section using the arrow button on the left side of each cell.
