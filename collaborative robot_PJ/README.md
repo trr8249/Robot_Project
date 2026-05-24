@@ -1,5 +1,5 @@
 ## 설명
-ipynb(주피터 노트북)파일에 각 프로젝트에 대해 정리되어있습니다.
+collaborative robot_PJ.ipynb 파일에 각 프로젝트에 대해 정리되어있습니다.
 src 디렉토리에는 사용했던 코드가 기재되어있습니다.
 
 ## collaborative robot_PJ: 
