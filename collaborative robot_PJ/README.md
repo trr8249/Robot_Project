@@ -1,9 +1,3 @@
-## collaborative robot_PJ: 
-산업용 로봇(협동로봇)을 활용한 3가지 자동화 공정 구현 프로젝트 모음.
-1. OpenCV기반 협동로봇 활용 이미지 제작 자동화 시스템
-2. 유성기어 조립 공정 자동화 시스템
-3. 팔레타이징 공정 자동화 시스템
-
 ## Viewing Tip
 For better readability, open the `.ipynb` file in Jupyter Notebook.  
 You can collapse or expand each section using the arrow button on the left side of each cell.
@@ -15,5 +9,20 @@ Jupyter Notebook 파일(`.ipynb`)에 각 프로젝트에 대해 정리되어있�
 
 유의사항: Notebook 내 이미지가 정상적으로 출력되도록 `images` 폴더를 같이 다운받아 경로에 함께 위치시켜 주세요.
 
+## 산업용 로봇(협동로봇)을 활용한 3가지 자동화 공정 구현 프로젝트 모음.
 src 디렉토리에는 사용했던 코드가 기재되어있습니다.
+
+1. OpenCV기반 협동로봇 활용 이미지 제작 자동화 시스템
+### 결과 영상: 그림(토토로) 그리기 및 Rviz 시뮬레이션 연동
+<img src="./images/totoro drawing.gif" width="700"/>
+
+2. 유성기어 조립 공정 자동화 시스템
+### 결과 영상: 유성기어 조립
+<img src="./images/gear asemble.gif" width="700"/>
+
+3. 팔레타이징 공정 자동화 시스템
+### 팔레타이징 공정 시나리오
+<img src="images/palletazing.png" width="700">
+
+
 
