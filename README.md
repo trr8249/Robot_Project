@@ -16,7 +16,7 @@ Jupyter Notebook 파일(`.ipynb`)에 각 프로젝트에 대해 정리되어있�
 
 ## collaborative robot_PJ: 
 산업용 로봇(협동로봇)을 활용한 3가지 자동화 공정 구현 프로젝트 모음.
-(https://github.com/trr8249/Robot_Project/tree/e3c264342eb62dfa2c27516d179036004b0deb0e/Al_LLM_STT_corobot)
+(https://github.com/trr8249/Robot_Project/tree/03e7b303e9b10b1b2dd5b923dce70a1412c0e622/collaborative%20robot_PJ)
 
 1. OpenCV기반 협동로봇 활용 이미지 제작 자동화 시스템
 2. 유성기어 조립 공정 자동화 시스템
