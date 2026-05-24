@@ -9,7 +9,7 @@ Jupyter Notebook 파일(`.ipynb`)에 각 프로젝트에 대해 정리되어있�
 
 유의사항: Notebook 내 이미지가 정상적으로 출력되도록 `images` 폴더를 같이 다운받아 경로에 함께 위치시켜 주세요.
 
-## AI_LLM_STT_corobot_PJ: AI(GPT API 활용 STT/LLM) + 산업용 로봇(협동로봇) 주유 자동화 공정 구현 프로젝트.
+## AI(GPT API 활용 STT/LLM) + 산업용 로봇(협동로봇) 주유 공정 자동화 어시스턴트 프로젝트.
 
 src 디렉토리에는 사용했던 코드가 기재되어있습니다.
 
