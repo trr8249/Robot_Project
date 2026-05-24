@@ -5,10 +5,10 @@ AMR을 활용한 완성차 물류 운송 자동화 구현 프로젝트.
 <img src="images/trash move.gif" width="700"/>
 
 환경 시나리오 구성
-<img src="images/scenario.png" width="1000">
+<img src="images/scenario.png" width="700">
 
 System Architecture
-<img src="images/SysArch.png" width="1000">
+<img src="images/SysArch.png" width="700">
 
 ## Viewing Tip
 For better readability, open the `.ipynb` file in Jupyter Notebook.  
