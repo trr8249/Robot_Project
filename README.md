@@ -24,7 +24,7 @@ src 디렉토리에는 사용했던 코드가 기재되어있습니다.
 
 ## AMR_PJ:
 AMR을 활용한 완성차 물류 운송 자동화 구현 프로젝트.
-(https://github.com/trr8249/Robot_Project/AMR_PJ)
+(https://github.com/trr8249/Robot_Project/tree/AMR_PJ)
 
 ## AI_LLM_STT_corobot_PJ:
 AI(GPT API 활용 STT/LLM) + 산업용 로봇(협동로봇) 주유 자동화 공정 구현 프로젝트.
