@@ -28,6 +28,6 @@ AMR을 활용한 완성차 물류 운송 자동화 구현 프로젝트.
 
 ## AI_LLM_STT_corobot_PJ:
 AI(GPT API 활용 STT/LLM) + 산업용 로봇(협동로봇) 주유 자동화 공정 구현 프로젝트.
-(https://github.com/trr8249/Robot_Project/tree/9a46b5bb15a7eb4d1b5577cd95c35eddbb56f5f6/Al_LLM_STT_corobot)
+(https://github.com/trr8249/Robot_Project/tree/417c27d9957f74050aee380c4abc97203c2b3af6/Al_LLM_STT_corobot)
 
 ### 대학 캡스톤 프로젝트_매니퓰레이터 활용 쓰레기 수거용 사륜구동 원격제어 시스템 링크: https://github.com/trr8249/University-Project.git
