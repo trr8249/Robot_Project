@@ -32,3 +32,6 @@ images 디렉토리에 SLAM.mp4 파일이 SLAM기반 map 생성과정 영상입�
 ## AI_LLM_STT_corobot_PJ: 
 AI(GPT API 활용 STT/LLM) + 산업용 로봇(협동로봇) 주유 자동화 공정 구현 프로젝트.
 (https://github.com/trr8249/Robot_Project/tree/389fc8242cb20d8e7c3830152eb551b2394e51a3/Al_LLM_STT_corobot)
+
+## 대학 캡스톤 프로젝트: 매니퓰레이터 활용 쓰레기 수거용 사륜구동 원격제어 시스템
+(https://github.com/trr8249/University-Project.git)
