@@ -16,7 +16,7 @@ src 디렉토리에는 사용했던 코드가 기재되어있습니다.
 
 ## collaborative robot_PJ: 
 산업용 로봇(협동로봇)을 활용한 3가지 자동화 공정 구현 프로젝트 모음.
-(https://github.com/trr8249/Robot_Project/tree/389fc8242cb20d8e7c3830152eb551b2394e51a3/collaborative%20robot_PJ)
+(AMR_PJ)
 
 1. OpenCV기반 협동로봇 활용 이미지 제작 자동화 시스템
 2. 유성기어 조립 공정 자동화 시스템
