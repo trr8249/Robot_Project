@@ -1,6 +1,15 @@
 ## AMR_PJ:
 AMR을 활용한 완성차 물류 운송 자동화 구현 프로젝트.
 
+결과 영상: AMR 완성차 물류 운송 시나리오
+<img src="./images/trash move.gif" width="700"/>
+
+환경 시나리오 구성
+<img src="images/scenario.png" width="1000">
+
+System Architecture
+<img src="images/SysArch.png" width="1000">
+
 ## Viewing Tip
 For better readability, open the `.ipynb` file in Jupyter Notebook.  
 You can collapse or expand each section using the arrow button on the left side of each cell.
