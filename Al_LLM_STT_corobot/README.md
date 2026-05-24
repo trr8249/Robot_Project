@@ -16,7 +16,8 @@ src 디렉토리에는 사용했던 코드가 기재되어있습니다.
 ### 결과 영상: 
 <img src="./images/gas station.gif" width="700"/>
 
+### 시나리오 구성
+<img src="images/scenario.png" width="700">
 
-
-
-
+### System Architecture Diagram
+<img src="images/SysArch_diagram.png" width="700">
