@@ -4,6 +4,10 @@
 2. 유성기어 조립 공정 자동화 시스템
 3. 팔레타이징 공정 자동화 시스템
 
+## Viewing Tip
+For better readability, open the `.ipynb` file in Jupyter Notebook.  
+You can collapse or expand each section using the arrow button on the left side of each cell.
+
 ## Jupyter Notebook 사용 안내
 Jupyter Notebook 파일(`.ipynb`)에 각 프로젝트에 대해 정리되어있습니다.
 
@@ -12,3 +16,4 @@ Jupyter Notebook 파일(`.ipynb`)에 각 프로젝트에 대해 정리되어있�
 유의사항: Notebook 내 이미지가 정상적으로 출력되도록 `images` 폴더를 같이 다운받아 경로에 함께 위치시켜 주세요.
 
 src 디렉토리에는 사용했던 코드가 기재되어있습니다.
+
