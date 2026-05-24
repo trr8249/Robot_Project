@@ -13,7 +13,7 @@ Jupyter Notebook 파일(`.ipynb`)에 각 프로젝트에 대해 정리되어있�
 
 src 디렉토리에는 사용했던 코드가 기재되어있습니다.
 
-### 결과 영상: 
+### 결과 영상: 주유 후 카드 결제 시나리오
 <img src="./images/gas station.gif" width="700"/>
 
 ### 시나리오 구성
