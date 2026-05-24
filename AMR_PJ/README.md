@@ -1,13 +1,12 @@
-## AMR_PJ:
-AMR을 활용한 완성차 물류 운송 자동화 구현 프로젝트.
+## AMR_PJ: AMR을 활용한 완성차 물류 운송 자동화 구현 프로젝트
 
-결과 영상: AMR 완성차 물류 운송 시나리오
-<img src="images/trash move.gif" width="700"/>
+### 결과 영상: AMR 완성차 물류 운송 시나리오
+<img src="./images/trash move.gif" width="700"/>
 
-환경 시나리오 구성
+### 환경 시나리오 구성
 <img src="images/scenario.png" width="700">
 
-System Architecture
+### System Architecture
 <img src="images/SysArch.png" width="700">
 
 ## Viewing Tip
