@@ -1,6 +1,10 @@
 ## Robot_Project
 The team projects using AMR, cooperative robots, industrial robots, etc.
 
+## Viewing Tip
+For better readability, open the `.ipynb` file in Jupyter Notebook.  
+You can collapse or expand each section using the arrow button on the left side of each cell.
+
 ## Jupyter Notebook 사용 안내
 Jupyter Notebook 파일(`.ipynb`)에 각 프로젝트에 대해 정리되어있습니다.
 
